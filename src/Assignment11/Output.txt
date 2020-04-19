@@ -1,0 +1,23 @@
+Character   count is 11
+Character a count is 11
+Character b count is 1
+Character c count is 2
+Character d count is 1
+Character e count is 8
+Character g count is 8
+Character h count is 1
+Character i count is 4
+Character j count is 3
+Character l count is 7
+Character , count is 1
+Character m count is 5
+Character n count is 5
+Character . count is 2
+Character o count is 7
+Character p count is 2
+Character r count is 5
+Character s count is 1
+Character t count is 3
+Character u count is 2
+Character v count is 2
+Character w count is 1
